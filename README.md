@@ -27,13 +27,15 @@ Built entirely with **Java Swing**, this project demonstrates algorithm visualiz
 ## 🚀 How to Run
 
 ### Option 1: Run the JAR file (recommended)
+
 1. Download `ConvexHullApp.jar`
 2. Run it:
+
    ```bash
    java -jar ConvexHullApp.jar
-````
+   ```
 
-> Requires Java 8 or later
+   Requires Java 8 or later
 
 ---
 
@@ -44,6 +46,7 @@ cd src
 javac *.java
 java ConvexHull
 ```
+
 
 ---
 
